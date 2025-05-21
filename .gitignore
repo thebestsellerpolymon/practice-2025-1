@@ -1,0 +1,47 @@
+# Qt build artifacts
+*.pro.user
+*.pro.user.*
+*.qmlc
+*.jsc
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.app
+*.dylib
+*.qm
+*.qrc
+*.moc
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tmp
+*.tmp.*
+*.swp
+*~
+
+# Build directories
+build-*/
+Debug/
+Release/
+*.build/
+*.xcodeproj/
+*.xcworkspace/
+
+# Qt Creator files
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Server specific
+Server/*.db
+Server/*.log 
