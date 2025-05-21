@@ -1,3 +1,9 @@
+---
+title: "Hyperledger и его роль в развитии CBDC 💸"
+date: 2025-05-19
+draft: false
+---
+
 # Hyperledger и его роль в развитии CBDC 💸
 
 ![image](/assets/images/hyperledger.jpg)
