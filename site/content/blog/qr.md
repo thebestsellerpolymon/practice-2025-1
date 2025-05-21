@@ -4,7 +4,6 @@ date: 2025-05-21
 draft: false
 ---
 
-# Почему QR-платежи становятся всё популярнее в России? 📲
 
 ![post](https://thebestsellerpolymon.github.io/practice-2025-1/images/qr.png)
 
